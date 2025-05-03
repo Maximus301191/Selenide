@@ -1,0 +1,1 @@
+При правильной сборке [![Build status](https://ci.appveyor.com/api/projects/status/8lua6v18t88otdss?svg=true)](https://ci.appveyor.com/project/Maximus301191/selenide)
